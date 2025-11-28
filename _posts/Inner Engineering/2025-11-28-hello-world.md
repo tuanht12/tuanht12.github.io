@@ -1,7 +1,7 @@
 ---
 title: "Hello World: Tại sao tôi làm chuyện này?"
 date: 2025-11-28 11:00:00 +0700
-categories: [Inner Engineering, Self-awareness]  # Chuyên mục lớn / Chuyên mục con
+categories: [Inner Engineering]  # Chuyên mục lớn / Chuyên mục con
 tags: [intro, motivation]     # Tag để tìm kiếm
 math: true                    # Bật công thức toán cho bài này
 ---
