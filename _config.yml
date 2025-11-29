@@ -14,14 +14,13 @@ timezone: Asia/Ho_Chi_Minh
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: The Mindful ML Engineer
+title: TuanHT's Blog
 
-tagline: ML, Code & Mindfulness
+tagline: Machine Learning, Programming, Mindfulness
 
 description: >- # used by seo meta and the atom feed
-  Blog của một cựu sinh viên FTU làm Machine Learning Engineer. 
-  Chia sẻ về AdTech, LLM, hành trình học Văn bằng 2 tại HCMUS và góc nhìn về hạnh phúc.
-
+  Blog của một cựu sinh viên FTU đang làm trái ngành sang Machine Learning Engineer.
+  Chia sẻ về lập trình, machine learning, và hành trình sống tỉnh thức.
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://tuanht12.github.io"
@@ -224,5 +223,5 @@ jekyll-archives:
     category: category
     tag: tag
   permalinks:
-    tag: /tags/:name/ 
+    tag: /tags/:name/
     category: /categories/:name/

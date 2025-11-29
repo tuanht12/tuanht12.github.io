@@ -9,7 +9,7 @@ order: 4
 
 Chào bạn, **TuanHT** đây.
 
-Mình là một **Machine Learning Engineer** đang làm việc trong lĩnh vực AdTech, nhưng xuất phát điểm của mình lại là một sinh viên **Kinh tế đối ngoại (FTU)**. Blog này là nơi mình ghi lại hành trình "vượt biên" từ những con số tài chính sang những dòng code, và cách mình cân bằng giữa thuật toán khô khan với một cuộc sống hạnh phúc.
+Mình là một **Machine Learning Engineer** với xuất phát điểm của mình lại là một sinh viên **Kinh tế đối ngoại (FTU)**. Blog này là nơi mình ghi lại hành trình "vượt biên" từ những con số tài chính sang những dòng code, và cách mình cân bằng giữa thuật toán khô khan với một cuộc sống hạnh phúc.
 
 ### 👨‍💻 Công việc (The Engineer)
 
@@ -33,9 +33,9 @@ Ngoài Data và Model, mình dành thời gian để quan sát chính mình (Sel
 
 Tại blog này, bạn sẽ tìm thấy:
 
-1.  **Tech Notes:** Những bài viết chuyên sâu về ML, AdTech và LLM.
-2.  **Dev Story:** Chuyện nghề, chuyện học văn bằng 2.
-3.  **Mindfulness:** Những góc nhìn về cuộc sống, sức khỏe tinh thần và hành trình thấu hiểu bản thân.
+1.  **Tech Notes:** Những bài học, kinh nghiệm đúc kết mình có được trong quá trình làm việc.
+2.  **Dev Story:** Chuyện đi làm, chuyện đi học...
+3.  **Mindfulness:** Những góc nhìn về cuộc sống và hành trình thấu hiểu bản thân.
 
 Kết nối với mình qua:
 
