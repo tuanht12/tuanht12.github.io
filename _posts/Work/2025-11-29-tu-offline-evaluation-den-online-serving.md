@@ -5,7 +5,7 @@ categories: [Work]
 tags: [modelling, ctr-prediction]
 ---
 
-Vấn đề cốt lõi và nan giải nhất khi xây dựng mô hình dự đoán Click-Through-Rate (pCTR) chính là làm sao để kết quả đánh giá nội bộ (offline evaluation) có thể tương đồng và sát sườn nhất với kết quả thực tế (business metrics) như eCPM, CTR, CVR. Nếu tồn tại một sự khác biệt lớn giữa hai kết quả này, việc đánh gia và định hướng phát triển mô hình sẽ trở nên vô cùng khó khăn, giống như ôn thi mà đề thi thử không phản ánh đúng cấu trúc đề thi thật.
+Vấn đề cốt lõi và nan giải nhất khi xây dựng mô hình dự đoán Click-Through-Rate (pCTR) chính là làm sao để kết quả đánh giá nội bộ (offline evaluation) có thể tương đồng và sát sườn nhất với kết quả thực tế (business metrics) như eCPM, CTR, CVR. Nếu tồn tại một sự khác biệt lớn giữa hai kết quả này, việc đánh giá và định hướng phát triển mô hình sẽ trở nên vô cùng khó khăn, giống như ôn thi mà đề thi thử không phản ánh đúng cấu trúc đề thi thật.
 
 Qua quá trình triển khai thực tế, tôi đã đúc kết được 3 kinh nghiệm quan trọng dưới đây:
 
