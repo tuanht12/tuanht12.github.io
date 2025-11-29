@@ -1,5 +1,5 @@
 ---
-title: "📘 Giới thiệu Series "Tôi nói gì khi nói về...""
+title: "Giới thiệu Series 'Tôi nói gì khi nói về...'"
 date: 2025-11-28
 categories: [Learning, RecSys]
 tags: [modelling, ctr-prediction, learning, toi-noi-gi-khi-noi-ve]
